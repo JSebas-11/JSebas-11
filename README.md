@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JSebas-11, I am a programming apprentice, hoping to improve my skills day by day
+- 👋 Hi, I’m @JSebas-11, I am a programming apprendice, hoping to improve my skills day by day
 - 👀 I’m interested in data analyst, machine learning...
 - 🌱 I’m currently learning python
 - I have a youtube channel (Gamuzer Coding)
