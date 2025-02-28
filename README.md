@@ -27,16 +27,57 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-----
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,mysql,sqlite,vscode&perline=10" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+    </div>
+    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+    </div>
+    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+    </div>
+    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50"/>
+    </div>
+    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
+    </div>
+    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/regex/regex.png" width="50" height="50"/>
+    </div>
+  </div>
+</p>
+
+-----
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JSebas-11&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JSebas-11&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebas-11&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JSebas-11&theme=dark&show_icons=true&count_private=true"/>
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JSebas-11&theme=dark&hide_border=false" /> 
+</td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JSebas-11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+-----
