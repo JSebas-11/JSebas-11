@@ -36,28 +36,26 @@
   </a>
 </p>
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 15px;">
-    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-    </div>
-    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-    </div>
-    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
-    </div>
-    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50"/>
-    </div>
-    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
-    </div>
-    <div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/regex/regex.png" width="50" height="50"/>
-    </div>
-  </div>
-</p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="43" height="43"/>
+    </td>
+  </tr>
+</table>
+
 
 -----
 
