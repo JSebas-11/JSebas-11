@@ -1,38 +1,47 @@
 # 💫 About Me:
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 ¡Hey! Soy @JSebas-11</h1></summary>
+    <summary>
+      <h1 style="display: inline-block">👋 ¡Hey! Soy @JSebas-11</h1>
+    </summary>
   </ul>
 </div>
 
 <div align="center">
   
   <p>💻 Entusiaste del aprendizaje en programación<br>
-    Interesado en ciencia de datos, desarrollo web, machine learning y desarrollo videojuegos.<br><br></p>
-    
+    Interesado en ciencia de datos, desarrollo web, machine learning y desarrollo videojuegos.
+  </p>
+  <br>
   <p>📚 Estudiante en la Institución Universitaria Pascual Bravo en Medellín, Colombia,<br>
-  Mi objetivo es reforzar y desarrollar bases sólidas en estas áreas.<br><br></p>
-  
+    Mi objetivo es reforzar y desarrollar bases sólidas en estas áreas.
+  </p>
+  <br>
   <p>🚀 Aparte de mis estudios universitarios, tengo un enfoque autodidacta.<br>
-  Dedico tiempo a profundizar y ampliar mis conocimientos, explorando constantemente<br> 
-  nuevas herramientas y técnicas para mejorar mis habilidades de programación.<br><br></p> 
-  
+    Dedico tiempo a profundizar y ampliar mis conocimientos, explorando constantemente<br> 
+    nuevas herramientas y técnicas para mejorar mis habilidades de programación.
+  </p>
+  <br>
   <p>📫 Trabajo activamente en mejorar mi nivel de inglés,<br>
-  Buscando ampliar horizontes y acceder a recursos globales en la tecnología.<br><br></p>
-  
+    Buscando ampliar horizontes y acceder a recursos globales en la tecnología.
+  </p>
+  <br>
   <p>🔜 Planeo adentrarme en otras tecnologías relacionadas con:<br>
     📌 Cálculo matemático y machine learning.<br>
     📌 Desarrollo de videojuegos 2D con Unity.<br>
-    📌 Herramientas para desarrollo web.</p>
-  
+    📌 Herramientas para desarrollo web.
+  </p>
+  <br>
 </div>
 
------
+<hr>
 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,mysql,sqlite,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css&perline=10"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,vscode&perline=10"/>
   </a>
 </p>
 
@@ -56,8 +65,7 @@
   </tr>
 </table>
 
-
------
+<hr>
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -78,4 +86,4 @@
 </tr>
 </table>
 
------
+<hr>
