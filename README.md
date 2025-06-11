@@ -10,7 +10,8 @@
 <div align="center">
   
   <p>💻 Entusiaste del aprendizaje en programación<br>
-    Interesado en ciencia de datos, desarrollo web, machine learning y desarrollo videojuegos.
+    Interesado en ciencia de datos, desarrollo web, machine learning,<br>
+    desarrollo videojuegos y software enfocado en análisis financiero.<br>
   </p>
   <br>
   <p>📚 Estudiante en la Institución Universitaria Pascual Bravo en Medellín, Colombia,<br>
