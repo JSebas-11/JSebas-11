@@ -42,7 +42,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css&perline=10"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,vscode&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,dotnet&perline=10"/>
   </a>
 </p>
 
@@ -58,10 +58,26 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="43" height="43"/>
     </td>
     <td style="padding: 10px; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="43" height="43"/>
     </td>
     <td style="padding: 10px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="43" height="43"/>
+    </td>
+  </tr>
+</table>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; border-radius: 8px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="43" height="43"/>
     </td>
   </tr>
 </table>
