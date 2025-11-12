@@ -10,8 +10,8 @@
 <div align="center">
   
   <p>💻 Entusiaste del aprendizaje en programación<br>
-    Interesado en ciencia de datos, desarrollo web, machine learning,<br>
-    desarrollo videojuegos y software enfocado en análisis financiero.<br>
+    Interesado en ciencia de datos, automatización, machine learning,<br>
+    desarrollo web y software enfocado en análisis financiero.<br>
   </p>
   <br>
   <p>📚 Estudiante en la Institución Universitaria Pascual Bravo en Medellín, Colombia,<br>
@@ -26,13 +26,6 @@
   <p>📫 Trabajo activamente en mejorar mi nivel de inglés,<br>
     Buscando ampliar horizontes y acceder a recursos globales en la tecnología.
   </p>
-  <br>
-  <p>🔜 Planeo adentrarme en otras tecnologías relacionadas con:<br>
-    📌 Cálculo matemático y machine learning.<br>
-    📌 Desarrollo de videojuegos 2D con Unity.<br>
-    📌 Herramientas para desarrollo web.
-  </p>
-  <br>
 </div>
 
 <hr>
@@ -42,42 +35,44 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css&perline=10"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,dotnet&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,dotnet,git,github&perline=10"/>
   </a>
 </p>
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="43" height="43"/>
     </td>
   </tr>
-</table>
-<table align="center" style="border-collapse: collapse; border: none;">
+  
   <tr>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px; border-radius: 8px;">
+    <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; ">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="43" height="43"/>
     </td>
   </tr>
 </table>
