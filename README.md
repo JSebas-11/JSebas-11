@@ -9,9 +9,9 @@
 
 <div align="center">
   
-  <p>💻 Entusiaste del aprendizaje en programación<br>
-    Interesado en ciencia de datos, automatización, machine learning,<br>
-    desarrollo web y software enfocado en análisis financiero.<br>
+  <p>💻 Entusiasta del aprendizaje en programación<br>
+    Interesado en desarrollo backend, arquitectura de software, ciencia de datos,<br>
+    ciberseguridad, automatización y software orientado al análisis financiero.<br>
   </p>
   <br>
   <p>📚 Estudiante en la Institución Universitaria Pascual Bravo en Medellín, Colombia,<br>
@@ -20,7 +20,7 @@
   <br>
   <p>🚀 Aparte de mis estudios universitarios, tengo un enfoque autodidacta.<br>
     Dedico tiempo a profundizar y ampliar mis conocimientos, explorando constantemente<br> 
-    nuevas herramientas y técnicas para mejorar mis habilidades de programación.
+    nuevas herramientas y técnicas para mejorar mis habilidades.
   </p>
   <br>
   <p>📫 Trabajo activamente en mejorar mi nivel de inglés,<br>
@@ -33,9 +33,13 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs&perline=10"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,dotnet,git,github&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo&perline=10"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,mint&perline=10"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,postman,git,github&perline=10"/>
   </a>
 </p>
 
@@ -56,23 +60,29 @@
     <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="43" height="43"/>
     </td>
+    <td style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
+    </td>
   </tr>
   
   <tr>
     <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="43" height="43"/>
     </td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
+    <td style="padding: 10px; ">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; ">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg" width="43" height="43"/>
+    </td>
+    <td style="padding: 10px; ">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="43" height="43"/>
     </td>
     <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="43" height="43"/>
     </td>
     <td style="padding: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px; ">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="43" height="43"/>
     </td>
   </tr>
 </table>
