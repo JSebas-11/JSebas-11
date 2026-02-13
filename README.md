@@ -35,11 +35,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,cs&perline=10"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo,redis&perline=10"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,mint&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,html,css&perline=10"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,postman,git,github&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman&perline=10"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=windows,debian,mint&perline=10"/>
   </a>
 </p>
 
