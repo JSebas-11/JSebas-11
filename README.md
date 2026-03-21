@@ -1,113 +1,79 @@
-# 💫 About Me:
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">👋 ¡Hey! Soy @JSebas-11</h1>
-    </summary>
-  </ul>
-</div>
+# 👋 Hi, I'm Sebastián
 
-<div align="center">
+Backend Developer (.NET) focused on software architecture, API design, and SDK development.
+
+---
+
+## 🧠 About Me
+
+I enjoy building backend systems and tools that are not only functional, but also well-structured and maintainable.
+
+My main focus areas:
+- Backend Development with .NET
+- Software Architecture & Clean Architecture
+- API Design & Integrations
+- SDK Development
+
+I also have a strong interest in Linux and understanding how systems work under the hood. Through challenges like the Bash challenge on CodeCrafters, I’ve worked with concepts such as pipes, stdin/stdout, and process management.
+
+Additionally, I’m interested in areas such as cybersecurity, automation, and financial software.
+
+---
+
+## 🚀 Projects
+
+- **D3lg4doMaps**  
+  Modular SDK for Google Maps APIs, focused on clean architecture and developer-friendly integrations in .NET.  
+  🔗 https://github.com/JSebas-11/D3lg4doMaps
+
+- **Bash Challenge (CodeCrafters)**  
+  Reimplementation of core shell features, including pipes, stdin/stdout, and process handling.  
+  Extended with a custom AI-powered built-in command (`tian`) to assist with command generation and shell interaction.  
+  🔗 https://github.com/JSebas-11/SeBashProject
   
-  <p>💻 Entusiasta del aprendizaje en programación<br>
-    Interesado en desarrollo backend, arquitectura de software, ciencia de datos,<br>
-    ciberseguridad, automatización y software orientado al análisis financiero.<br>
-  </p>
-  <br>
-  <p>📚 Estudiante en la Institución Universitaria Pascual Bravo en Medellín, Colombia,<br>
-    Mi objetivo es reforzar y desarrollar bases sólidas en estas áreas.
-  </p>
-  <br>
-  <p>🚀 Aparte de mis estudios universitarios, tengo un enfoque autodidacta.<br>
-    Dedico tiempo a profundizar y ampliar mis conocimientos, explorando constantemente<br> 
-    nuevas herramientas y técnicas para mejorar mis habilidades.
-  </p>
-  <br>
-  <p>📫 Trabajo activamente en mejorar mi nivel de inglés,<br>
-    Buscando ampliar horizontes y acceder a recursos globales en la tecnología.
-  </p>
-</div>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs&perline=10"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo,redis&perline=10"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,html,css&perline=10"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman&perline=10"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=windows,debian,mint&perline=10"/>
-  </a>
-</p>
+**Core:**
+- .NET / C#
+- REST APIs
+- Clean Architecture
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="43" height="43"/>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px; ">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px; ">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px; ">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="43" height="43"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="43" height="43"/>
-    </td>
-  </tr>
-</table>
+**Tools & Practices:**
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- xUnit
+- Automation & Scripting (Python)
+- Linux & Bash
 
-<hr>
+---
 
-# 📊 GitHub Stats:
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JSebas-11&theme=dark&show_icons=true&count_private=true"/>
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JSebas-11&theme=dark&hide_border=false" /> 
-</td>
+## 📫 Contact
 
-<td width="50%" align="center">
+- LinkedIn: https://www.linkedin.com/in/jsebas11
+- Email: juans3.jsda@gmail.com
+- GitHub: https://github.com/JSebas-11
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JSebas-11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+---
 
-<hr>
+<details>
+<summary>🇪🇸 Versión en Español</summary>
+
+## 🧠 Sobre mí
+
+Soy desarrollador backend especializado en .NET, enfocado en arquitectura de software y diseño de SDKs.
+
+Me gusta construir sistemas y herramientas que no solo funcionen, sino que también sean mantenibles y bien estructurados.
+
+Mis principales áreas de enfoque:
+- Desarrollo backend con .NET  
+- Arquitectura de software y Clean Architecture  
+- Diseño e integración de APIs  
+- Desarrollo de SDKs  
+
+También tengo un fuerte interés en Linux y en entender cómo funcionan los sistemas internamente. A través de retos como el Bash challenge de CodeCrafters, he trabajado con conceptos como pipes, stdin/stdout y manejo de procesos.
+
+Además, me interesan áreas como la ciberseguridad, la automatización y el software financiero.
+
+</details>
